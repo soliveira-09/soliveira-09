@@ -42,24 +42,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-<br>
-<br>
-
-### 🌿 Estatísticas
-
-<p>
-  <img 
-    aling="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=soliveira-09&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      aling="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
