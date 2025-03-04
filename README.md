@@ -1,13 +1,14 @@
 # 🪴 Samuel Oliveira
 **`Estudante Back-end`**
 
-Me chamo Samuel, sou do Ceará e conclui o ensino fundamental. Atualmente, estou cursando
-o ensino médio com o curso de desenvolvimento de sistemas na EEEP Jaime da Cunha. Você
-pode se comunicar comigo através do meu instagram chamado "[samueloliv4](https://www.instagram.com/samueloliveir4/)".
+Me chamo Samuel, sou do Ceará e atualmente estou cursando
+o ensino médio com o curso de desenvolvimento de sistemas na EEEP Jaime da Cunha.
+Eu me interesso tanto por front quanto por back-end, e minha principal linguagem é
+JavaScript.
 
 ---
 
-### 🌱 Linguagens
+### 🌱 Staks
 
 
 <img  
