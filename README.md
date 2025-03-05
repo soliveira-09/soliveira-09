@@ -1,4 +1,6 @@
 # 🪴 Samuel Oliveira
+<img align="right" alt="ponyo" title="ponyo" src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif" width="300" style="margin-top: -20px;">
+
 **`Estudante Back-end`**
 
 Me chamo Samuel, sou do Ceará e atualmente estou cursando
@@ -6,10 +8,9 @@ o ensino médio com <br> o curso de desenvolvimento de sistemas na EEEP Jaime da
 Eu me interesso <br> tanto por front quanto por back-end, e minha principal linguagem é
 JavaScript.
 
----
+
 
 ### 🌱 Staks
-
 
 <img  
     aling="left" 
@@ -50,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-##
+
 Entre em contato comigo!
 
 <div>
