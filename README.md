@@ -4,7 +4,7 @@
 **`Estudante Back-end/Front-end`**
 
 Me chamo Samuel, sou do Ceará e atualmente estou cursando
-o ensino médio com <br> o curso de desenvolvimento de sistemas na EEEP Jaime da Cunha.
+o ensino médio <br> com o curso de desenvolvimento de sistemas na EEEP Jaime da Cunha.
 Eu me interesso <br> tanto por front quanto por back-end, e minha principal linguagem é
 JavaScript.
 
