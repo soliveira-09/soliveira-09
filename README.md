@@ -1,7 +1,7 @@
 # 🪴 Samuel Oliveira
 <img align="right" alt="ponyo" title="ponyo" src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif" width="300" style="margin-top: -20px;">
 
-**`Estudante Back-end`**
+**`Estudante Back-end/Front-end`**
 
 Me chamo Samuel, sou do Ceará e atualmente estou cursando
 o ensino médio com <br> o curso de desenvolvimento de sistemas na EEEP Jaime da Cunha.
