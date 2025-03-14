@@ -1,5 +1,5 @@
 # 🪴 Samuel Oliveira
-<img align="right" alt="ponyo" title="ponyo" src="https://th.bing.com/th/id/R.f36012ddd41fca71e6b4aacf9f51f2a0?rik=1XpXI%2feOEBM%2fVw&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f31400000%2fStudio-Ghibli-studio-ghibli-31476468-500-442.gif&ehk=EgUetw4Xlkxq9%2bPoIOuFZ7Ymlz8b%2fOAFG974Jm5I7L8%3d&risl=&pid=ImgRaw&r=0" width="300" style="margin-top: -20px;">
+<img align="right" alt="ponyo" title="ponyo" src="https://upload-assets.vice.com/files/2016/03/21/1458572551Wind2.gif?resize=320:*" width="300" style="margin-top: -20px;">
 
 **`Estudante Back-end/Front-end`**
 
