@@ -3,6 +3,8 @@
 
 **`Estudando desenvolvimento web Laravel + FrontEnd`**
 
+Eu estou no terceiro ano do ensino fundamental/técnico em desenvolvimento de sistemas e 
+
 ### 🌱 Stacks
 
 <p>
