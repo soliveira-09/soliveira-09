@@ -44,7 +44,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-
+<img
+    alingn="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+/>
+          
 Entre em contato comigo!
 
 <div>
