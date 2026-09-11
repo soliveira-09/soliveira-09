@@ -13,7 +13,7 @@
   <img alt="Git" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </p>
 
-Entre em contato comigo!
+Informações e contato
 
 <div>
   <a href = "mailto:samueloliveirafreitas2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
