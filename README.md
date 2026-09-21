@@ -4,8 +4,8 @@
 **`Estudando desenvolvimento web Laravel + Front-End`**
 
 ### Sobre mim
-- 🎓 Cursando o 3º ano do Ensino Médio/Técnico em Desenvolvimento de Sistemas.
-- 💡 Aprofundando conhecimentos sobre PHP e Laravel.
+- Cursando o 3º ano do Ensino Médio/Técnico em Desenvolvimento de Sistemas.
+- Aprofundando conhecimentos sobre PHP e Laravel.
 
 ### 🌱 Stacks & Ferramentas
 
