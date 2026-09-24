@@ -23,7 +23,7 @@
   <img alt="VsCode" title="VsCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
-### 📫 Contato
+### Contato
 
 <div>
   <a href = "mailto:samueloliveira.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
