@@ -7,8 +7,6 @@
   </a>
 </p>
 
----
-
 ### Sobre Mim
 
 - Cursando o 3º ano do Ensino Médio/Técnico em **Desenvolvimento de Sistemas**.
