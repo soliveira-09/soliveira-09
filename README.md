@@ -10,7 +10,7 @@
 ### Sobre Mim
 
 - Cursando o 3º ano do Ensino Médio/Técnico em **Desenvolvimento de Sistemas**.
-- Focado em aprofundar conhecimentos em **PHP**, **Laravel** e **Desenvolvimento Front-End**.
+- Aprofundando conhecimentos em **PHP**, **Laravel** e **Desenvolvimento Front-End**.
 
 ---
 
@@ -30,11 +30,22 @@
 
 ---
 
+### Contribuições em Projetos
+
+<p align="left">
+  <a href="https://github.com/PedroRomulo46/SiteCopav">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=dark" alt="SiteCopav" />
+  </a>
+</p>
+
+* **[SiteCopav](https://github.com/PedroRomulo46/SiteCopav)**: Sistema de marketplace focado no agronegócio.
+---
+
 ### Minhas estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=buefy&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=buefy&hide_border=true&hide_title=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=dark&hide_border=true&hide_title=false" height="150" alt="Linguagens mais usadas" />
 </p>
 
 ---
