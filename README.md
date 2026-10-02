@@ -1,4 +1,4 @@
-<h1 align="center">Samuel Oliveira</h1>
+<h1 align="center">👋 Samuel Oliveira</h1>
 <h3 align="center">Estudante de Desenvolvimento Web | Laravel & Front-End</h3>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ### Minhas estatísticas
 
-<p align="center">
+<p align="center flex">
   <img src="https://github-readme-stats.vercel.app/api?username=soliveira-09&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </p>
