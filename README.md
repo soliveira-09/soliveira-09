@@ -1,5 +1,5 @@
 <h1 align="center">👋 Samuel Oliveira</h1>
-<h3 align="center">Estudante de Desenvolvimento Web | Laravel & Front-End</h3>
+<h3 align="center">Web Development Student | Laravel & Front-End</h3>
 
 <p align="center">
   <a href="https://github.com/soliveira-09">
@@ -7,14 +7,14 @@
   </a>
 </p>
 
-### Sobre Mim
+### About Me
 
-- Cursando o 3º ano do Ensino Médio/Técnico em **Desenvolvimento de Sistemas**.
-- Aprofundando conhecimentos em **PHP**, **Laravel** e **Desenvolvimento Front-End**.
+- 🎓 3rd-year high school student taking a technical diploma course in **Systems Development**.
+- 🚀 Deepening my knowledge in **PHP**, **Laravel**, and **Front-End Development**.
 
 ---
 
-### Stacks & Ferramentas
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -30,7 +30,7 @@
 
 ---
 
-### Contribuições em Projetos
+### Project Contributions
 
 <p align="left">
   <a href="https://github.com/PedroRomulo46/SiteCopav">
@@ -38,19 +38,20 @@
   </a>
 </p>
 
-* **[SiteCopav](https://github.com/PedroRomulo46/SiteCopav)**: Sistema de marketplace focado no agronegócio.
+* **[SiteCopav](https://github.com/PedroRomulo46/SiteCopav)**: An agribusiness-focused marketplace system.
+
 ---
 
-### Minhas estatísticas
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=dark&hide_border=true&hide_title=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=dark&hide_border=true&hide_title=false" height="150" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 📬 Entre em contato comigo
+### 📬 Get in touch
 
 <p align="left">
   <a href="mailto:samueloliveira.code@gmail.com">
