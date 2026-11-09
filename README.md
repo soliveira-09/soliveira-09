@@ -32,13 +32,9 @@
 
 ### Project Contributions
 
-<p align="left">
-  <a href="https://github.com/PedroRomulo46/SiteCopav">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=dark" alt="SiteCopav" />
-  </a>
-</p>
+<a href="https://github.com/PedroRomulo46/SiteCopav"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SiteCopav"></a>
 
-* **[SiteCopav](https://github.com/PedroRomulo46/SiteCopav)**: An agribusiness-focused marketplace system.
+* [**SiteCopav**](https://github.com/PedroRomulo46/SiteCopav): An agribusiness-focused marketplace system.
 
 ---
 
@@ -57,4 +53,8 @@
   <a href="mailto:samueloliveira.code@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
