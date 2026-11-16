@@ -69,7 +69,7 @@
 ### 📬 Get in touch
 
 <p align="left">
-  <a href="mailto:samueloliveira.code@gmail.com">
+  <a href="mailto:samueloliveira.selection492@slmails.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
