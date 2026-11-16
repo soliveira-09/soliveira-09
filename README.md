@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Samuel Oliveira</h1>
 <h3 align="center">Web Development Student | Laravel & Front-End</h3>
 
@@ -6,6 +7,8 @@
     <img src="https://img.shields.io/github/followers/soliveira-09?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+---
 
 ### About Me
 
@@ -32,17 +35,33 @@
 
 ### Project Contributions
 
-<a href="https://github.com/PedroRomulo46/SiteCopav"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SiteCopav"></a>
+<p align="left">
+  <a href="https://github.com/PedroRomulo46/SiteCopav">
+    <img
+      width="400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      alt="SiteCopav"
+    />
+  </a>
+</p>
 
-* [**SiteCopav**](https://github.com/PedroRomulo46/SiteCopav): An agribusiness-focused marketplace system.
+- **[SiteCopav](https://github.com/PedroRomulo46/SiteCopav)**: An agribusiness-focused marketplace system.
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=dark&hide_border=true&hide_title=false" height="150" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=react&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=react&hide_border=true"
+    height="150"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -56,5 +75,5 @@
 </p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
 </p>
