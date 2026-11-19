@@ -39,7 +39,7 @@
   <a href="https://github.com/PedroRomulo46/SiteCopav">
     <img
       width="400"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=PedroRomulo46&repo=SiteCopav&theme=dark&title_color=F85D7F&hide_border=true&icon_color=F8D866"
       alt="SiteCopav"
     />
   </a>
@@ -53,12 +53,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=react&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soliveira-09&theme=dark&hide_border=true"
     height="150"
     alt="GitHub Streak"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=react&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=soliveira-09&layout=compact&theme=dark&hide_border=true"
     height="150"
     alt="Most Used Languages"
   />
